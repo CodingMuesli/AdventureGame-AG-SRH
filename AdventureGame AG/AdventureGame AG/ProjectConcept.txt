@@ -1,0 +1,25 @@
+Worum geht's insgesamt und was haben wir vor?
+
+Ideensammlung und was wir brauchen
+------------------------------------------------------------
+Textadventure/Visual Novel Eigenschaften:
+    - es soll Items geben
+    - es soll Gegner geben -> Kampfsystem
+    - es soll NPCs geben
+    - Quests?
+    - verschiedene Enden
+    - einzelne Szenen/Situationen "kapseln"?
+    - wir machen nicht nur Text sondern auch mit Bilders 
+    - Schlüssel/Zustandssystem für Abschnitte die zugänglich wenn Bedingungen erfüllt
+
+
+Funktionen die wir brauchen:
+    - Raylib werden wir brauchen für grafische Darstellung 
+    - System um Zustände für Bereiche und Abschnitte zu speicher und abzurufen
+    
+    
+Überlegungen Umsetzung und Beispiele
+
+- Raum wird betreten, Spieler bekommt Entscheidungsoptionen angeboten 
+
+- Startpunkt -> folgend Verzweigungen -> Pfade deren Zweige sich auch wieder zusammenführen lassen 

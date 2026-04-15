@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureGame AG", "AdventureGame AG\AdventureGame AG.csproj", "{A34CD428-1A9C-49C2-8A97-18D61C6CE787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A34CD428-1A9C-49C2-8A97-18D61C6CE787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34CD428-1A9C-49C2-8A97-18D61C6CE787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34CD428-1A9C-49C2-8A97-18D61C6CE787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34CD428-1A9C-49C2-8A97-18D61C6CE787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

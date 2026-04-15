@@ -3,20 +3,25 @@ Worum geht's insgesamt und was haben wir vor?
 Ideensammlung und was wir brauchen
 ------------------------------------------------------------
 Textadventure/Visual Novel Eigenschaften:
-    - es soll Items geben
+    - es soll Items geben -> Währung
     - es soll Gegner geben -> Kampfsystem
-    - es soll NPCs geben
+    - es soll NPCs geben - Händler?
     - Quests?
     - verschiedene Enden
     - einzelne Szenen/Situationen "kapseln"?
     - wir machen nicht nur Text sondern auch mit Bilders 
     - Schlüssel/Zustandssystem für Abschnitte die zugänglich wenn Bedingungen erfüllt
+    
 
 
 Funktionen die wir brauchen:
     - Raylib werden wir brauchen für grafische Darstellung 
-    - System um Zustände für Bereiche und Abschnitte zu speicher und abzurufen
-    
+    - System um Zustände für Bereiche und Abschnitte zu speichern und abzurufen
+    - Inventory Management (mit Listen?)
+    - Game Objects Klasse
+    - Character Oberklasse
+    - Gegner Unterklasse
+    - Player Character Unterklasse
     
 Überlegungen Umsetzung und Beispiele
 

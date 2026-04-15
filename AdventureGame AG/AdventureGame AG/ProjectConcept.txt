@@ -1,4 +1,12 @@
+Adventure Game AG
+
 Worum geht's insgesamt und was haben wir vor?
+
+Von Woche zu Woche produzieren alle Teilnehmenden ihre eigenen Varianten zu besprochenen Ideen
+Wir vergleichen die Produzierten Varianten untereinander und wählen die favorisierte Variante aus,
+auf dieser Basis wird ab dann weiter gearbeitet.
+So wächst von Woche zu Woche das Adventure.
+
 
 Ideensammlung und was wir brauchen
 ------------------------------------------------------------
@@ -22,9 +30,55 @@ Funktionen die wir brauchen:
     - Character Oberklasse
     - Gegner Unterklasse
     - Player Character Unterklasse
+    - Möglichkeit Spielstände zu speichern
+    (- Kampfsystem)
+    
+TECHNISCHE RAHMENBEDINGUNGEN
+    - Vollbild Fenster
+    - 1920 x 1080 px Full HD
+    - jeder braucht eigenen Branch in Git für Coding
     
 Überlegungen Umsetzung und Beispiele
 
 - Raum wird betreten, Spieler bekommt Entscheidungsoptionen angeboten 
 
 - Startpunkt -> folgend Verzweigungen -> Pfade deren Zweige sich auch wieder zusammenführen lassen 
+
+- Uhr in Bildschirmecke als Indikator für Fortschritt und verbleibende Zeit
+
+
+
+
+Plot Idee I
+
+Tagsüber Mensch, Nachts Werwolf
+Protagonist und Antagonist in einer Person
+Tagsüberhandlungen wiedersprechen in Teilen Nachtshandlungen
+Setting Tag/Nacht, Wald, dörflich 
+Übergänge Dämmerung und Sonnenuntergange als Signale an Player 
+Handlungen "kosten" Zeit
+
+Variante
+
+Mensch wacht in Wald auf und sieht Werwolfspuren 
+kommt im Lauf des Spiels dr Sache auf die Schliche, dass er der Wolf sein könnte 
+Spieler weiß zunächst nicht was nachts passiert
+Wolf ist abgekapselt, Spieler findet nach einer Nacht neue Tatsachen vor, von denen er nicht zwangsweise versteht, wie es dazu gekommen ist 
+random Aufwach-Szenarien denkbar
+(Mensch ist evtl. sogar Jäger der an Jagt auf Wolf teilnimmt)
+Quest ist -> Hexe NPC hilft, das Werwolf-sein im Zaum zu halten 
+Heilung möglich durch Serum oder Ritual scheitern möglich
+
+
+Plot IDEE II
+
+Frankensteins Monster allein evtl verstoßen
+Burgruine / verlassen / Labor 
+findet Spuren von Schöpfer 
+erkundet Welt um Schöpfer zu finden 
+Energie zum exisitieren begrenzt braucht evtl. Strom oder ähnliches
+mehrere Enden dnekbar, Akzeptanz? Ablehnung? von Schöpfer
+
+
+Plot Idee III
+
